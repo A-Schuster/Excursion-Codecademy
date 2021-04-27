@@ -1,0 +1,46 @@
+body{
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+video{
+  align-self: center;
+  width: 20rem;
+  height: auto;
+}
+a{
+  color: aquamarine;
+  font-size: 16px;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+.copyright{
+  text-align: right;
+}
+.header{
+  width: 100%;
+  display: flex;
+  font-weight: normal;
+  font-size: 50px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.icon{
+  width: 4rem;
+  height: auto;
+  align-self: center;
+}
+.campPic{
+  width: 50%;
+  align-self: center;
+}

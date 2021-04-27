@@ -1,0 +1,24 @@
+{
+  "name": "excursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Schuster/Excursion-Codecademy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-Schuster/Excursion-Codecademy/issues"
+  },
+  "homepage": "https://github.com/A-Schuster/Excursion-Codecademy#readme"
+}
